@@ -23,25 +23,29 @@ public class Menu{
 		switch (choice) {
 	 	case 1: System.out.println("Lisa");Lisa.main (null); 
 	 	break;
-          	case 2: System.out.println("BigNumber");
+          	case 2: System.out.println("BigNumber"); BigNumber.main (null);
                 break;
-            	case 3: System.out.println("Number"); 
+            	case 3: System.out.println("Number"); Number.main (null);
                 break;
-           	case 4: System.out.println("Two"); 
+           	case 4: System.out.println("Two"); Two.main (null);
                 break;
-		case 5: System.out.println("NameAge"); 
+		case 5: System.out.println("NameAge"); NameAge.main (null);
 	 	break;
-          	case 6: System.out.println("ForLoop");
+          	case 6: System.out.println("ForLoop"); ForLoop.main (null);
                 break;
-            	case 7: System.out.println("Months"); 
+            	case 7: System.out.println("Months"); Months.main (null);
                 break;
-           	case 8: System.out.println("Cards"); 
+           	case 8: System.out.println("Cards"); Cards.main (null);
                 break;
+		default: 
+		System.out.println ("Invalid choice");
+		break;
 		}//end switch
 		
-		if (choice <=0 || choice >=9){
-		System.out.println("Invalid choice.");
-		}//end if
+		//if (choice <=0 || choice >=9){
+		//System.out.println("Invalid choice.");
+		//main;
+		//}//end if
 
 }//end main
 }//end class
