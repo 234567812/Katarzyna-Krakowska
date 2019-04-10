@@ -22,7 +22,8 @@ public class Lisa{
 
 		System.out.println(name+ " is " +age+ " years old and is " +height+" centimeters tall. \n" +name+ " weights " +weight+ " kilograms. ");
 		System.out.println();
-
+		
+		Menu.main (null);
 
 	}//end main
 }//end class
