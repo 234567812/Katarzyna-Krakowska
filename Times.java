@@ -36,5 +36,7 @@ i++;
 output = "Invalid choice.";
 }
 System.out.println (output);
+		
+		Index.main (null);
 }
 }
