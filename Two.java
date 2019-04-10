@@ -37,6 +37,7 @@ public class Two{
 	   }else{
 		   System.out.println("Both numbers are not equal 2.");
 	   }
-
+	
+		Index.main (null);
 	}//end main
 }//end class
