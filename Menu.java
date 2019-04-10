@@ -21,7 +21,7 @@ public class Menu{
 		choice = input.nextInt();
 
 		switch (choice) {
-	 	case 1: System.out.println("Lisa"); 
+	 	case 1: System.out.println("Lisa");Lisa.main (null); 
 	 	break;
           	case 2: System.out.println("BigNumber");
                 break;
