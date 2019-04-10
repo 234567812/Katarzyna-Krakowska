@@ -29,14 +29,13 @@ public class NameAge{
 		age = input.nextInt();
 
 		while (count <= age ){
-			System.out.println(count+ ". "+name);
-			count = count + 1;
+		System.out.println(count+ ". "+name);
+		count = count + 1;
+		}
 
-			}
+		System.out.println();
 
-	System.out.println();
-
-
+		Index.main (null);
 
 	}//end main
 }//end class
