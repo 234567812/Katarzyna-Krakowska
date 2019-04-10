@@ -30,6 +30,8 @@ public class Number{
 
 		}
 		System.out.println();
-
+		
+		Index.main (null);
+		
 	}//end main
 }//end class
