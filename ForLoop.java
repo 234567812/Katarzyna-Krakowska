@@ -13,7 +13,7 @@ Loop how many times: unknown
 */
 
 import java.util.Scanner;
-public class Odd{
+public class ForLoop{
 
 	public static void main(String[] args){
 	Scanner input = new Scanner(System.in);
@@ -23,7 +23,7 @@ public class Odd{
 	System.out.print(i+". Enter number: ");
 	num=input.nextInt();
 
-	for (int i= 3; i <= 15; i = i + 2){
+	for (int i= 0; i <= 10; i = i + 2){
         total = total + i;
 	}
 
