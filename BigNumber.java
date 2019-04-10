@@ -25,6 +25,8 @@ public class BigNumber{
 		
 		System.out.print( "That is a big number.");
 		}
-
+		
+		Index.main (null);
+		
 	}//end main
 }//end class
