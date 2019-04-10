@@ -23,12 +23,13 @@ public class Odd{
 	System.out.print(i+". Enter number: ");
 	num=input.nextInt();
 
-		for (int i= 3; i <= 15; i = i + 2){
-           total = total + i;
-		}
+	for (int i= 3; i <= 15; i = i + 2){
+        total = total + i;
+	}
 
-		System.out.println("Total: "+total);
-
+	System.out.println("Total: "+total);
+	
+	Index.main (null);
 
 
 	}//end main
