@@ -1,5 +1,5 @@
 /*
-Name: Exercise1_KKrakowska
+Name: Exercise_KKrakowska
 
 Description: Exercise - Java Development
 
