@@ -1,7 +1,10 @@
 /*
 Name: Exercise_KKrakowska
+
 Description: Exercise - Java Development
+
 Created by: Katarzyna Krakowska
+
 Created on: 12/02/2019
 */
 
