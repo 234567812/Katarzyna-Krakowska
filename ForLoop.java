@@ -29,7 +29,8 @@ public class ForLoop{
 	
 	System.out.println("Sum of odd numbers is: "+sum);
 
-
+	Index.main (null);
+		
 	}//end main
 }//end class
    
