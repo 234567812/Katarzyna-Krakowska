@@ -1,15 +1,8 @@
 /*
-Program Name: NameAge
-
-Variables/Types: int count; int number; String name;
-
-Inputs: yes
-
-If/else statements: no
-
-Loops: yes
-
-Loop how many times: unknown
+Name: Exercise_KKrakowska
+Description: Exercise - Java Development
+Created by: Katarzyna Krakowska
+Created on: 12/02/2019
 */
 
 import java.util.Scanner;
