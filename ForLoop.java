@@ -1,36 +1,35 @@
 /*
-Program Name: Odd
+Name: Exercise_KKrakowska
 
-Variables/Types: int count; int number; String name;
+Description: Exercise - Java Development
 
-Inputs: yes
+Created by: Katarzyna Krakowska
 
-If/else statements: no
-
-Loops: yes
-
-Loop how many times: unknown
+Created on: 12/03/2019
 */
 
 import java.util.Scanner;
 public class ForLoop{
 
+
 	public static void main(String[] args){
-	Scanner input = new Scanner(System.in);
+	Scanner input = new Scanner (System.in);
 
-	int total = 1;
+	int sum = 0;
+	int num = 0;
 
-	System.out.print(i+". Enter number: ");
-	num=input.nextInt();
-
-	for (int i= 0; i <= 10; i = i + 2){
-        total = total + i;
-	}
-
-	System.out.println("Total: "+total);
 	
-	Index.main (null);
+	for (int i = 1; i <= 10; i++){
+	System.out.print("Enter number "+i+ ": ");
+	num = input.nextInt();
+	if (num % 2 != 0) {
+	sum = sum + num;
+	}
+	}
+	
+	System.out.println("Sum of odd numbers is: "+sum);
 
 
 	}//end main
 }//end class
+   
