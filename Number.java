@@ -1,5 +1,5 @@
 /*
-Name: Exercise1_KKrakowska
+Name: Exercise_KKrakowska
 
 Description: Exercise - Java Development
 
@@ -22,9 +22,9 @@ public class Number{
 		number = input.nextInt();
 
 		if (number > 0){
-		System.out.println(number+ " is a possitive number.");
+		System.out.println(number+ " is a positive number.");
 		}else if (number < 0){
-		System.out.println(number+ " is negative number.");
+		System.out.println(number+ " is a negative number.");
 		}else if(number == 0){
 		System.out.println("Number is 0.");
 
