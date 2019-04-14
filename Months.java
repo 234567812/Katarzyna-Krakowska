@@ -22,5 +22,7 @@ public class Months{
 	}//end if
 	}//end for
 	
+	Index.main (null);
+		
 	}//end main
 }//end class
