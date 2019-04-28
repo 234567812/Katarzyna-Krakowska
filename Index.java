@@ -26,6 +26,8 @@ public class Index{
 		System.out.print ("Enter choice 1-8: ");
 		choice = input.nextInt();
 
+		for (int i = 0; i >= 0; i++){
+			
 		switch (choice) {
 	 	case 1: System.out.println("Lisa");Lisa.main (null); 
 	 	break;
@@ -45,11 +47,14 @@ public class Index{
                 break;
 		default: 
 		System.out.println ("Invalid choice");
-		main;
 		break;
 		}//end switch
 		
-		
+		System.out.println ();
+		System.out.print ("Enter choice 1-8 (Ctrl + Z to quit): ");
+		choice = input.nextInt();
+
+		}//end for
 
 }//end main
 }//end class
