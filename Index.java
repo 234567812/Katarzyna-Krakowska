@@ -24,7 +24,7 @@ public class Index{
 		System.out.println ("7. Months");
 		System.out.println ("8. Cards");
 		System.out.println ();
-		System.out.print ("Enter choice: ");
+		System.out.print ("Enter choice 1-8: ");
 		choice = input.nextInt();
 
 		switch (choice) {
