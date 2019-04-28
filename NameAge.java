@@ -21,7 +21,7 @@ public class NameAge{
 
 		System.out.print("Enter your name: ");
 		name = input.nextLine();
-		System.out.print("Enter number your age: ");
+		System.out.print("Enter your age: ");
 		age = input.nextInt();
 
 		while (count <= age ){
