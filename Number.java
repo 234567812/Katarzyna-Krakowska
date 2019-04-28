@@ -25,7 +25,7 @@ public class Number{
 		System.out.println(number+ " is a positive number.");
 		}else if (number < 0){
 		System.out.println(number+ " is a negative number.");
-		}else if(number == 0){
+		}else {
 		System.out.println("Number is 0.");
 
 		}
