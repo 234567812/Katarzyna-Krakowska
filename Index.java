@@ -12,8 +12,7 @@ public class Index{
 	Scanner input = new Scanner(System.in);
 
 		int choice = 0;
-		String output = "";
-
+		
 		System.out.println ("Select option.\n");
 		System.out.println ("1. Lisa");
 		System.out.println ("2. BigNumber");
@@ -46,13 +45,11 @@ public class Index{
                 break;
 		default: 
 		System.out.println ("Invalid choice");
+		main;
 		break;
 		}//end switch
 		
-		//if (choice <=0 || choice >=9){
-		//System.out.println("Invalid choice.");
-		//main;
-		//}//end if
+		
 
 }//end main
 }//end class
