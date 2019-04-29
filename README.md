@@ -12,7 +12,7 @@ Programs.
 
 Program contains a number of values from the statement inclueded in the exercise. Task was to assign those values to variables of the appropriate type and reconstruct the statement using the variables.
 
-2.BigNumber.java
+2. BigNumber.java
 
 Program prompts a user to enter a number. If number is greater than 1,000,000, program prints a message to the screen stating, "That is a big number."
 
