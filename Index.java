@@ -1,8 +1,12 @@
 /*
 Name: Exercise_KKrakowska
+
 Description: Exercise - Java Development
+
 Created by: Katarzyna Krakowska
+
 Created on: 10/04/2019
+
 */
 
 import java.util.Scanner;
