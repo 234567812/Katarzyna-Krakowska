@@ -1,0 +1,16 @@
+Index.java
+
+1. User is presented with a menu of 8 programs.
+2. User is asked to select program to run by entering choise between 1-8.
+3. Choice is 1, run exercise 1 - Lisa.java
+4. Choice is 2, run exercise 2 - BigNumber.java 
+5. Choice is 3, run exercise 3 - Number.java
+6. Choice is 4, run exercise 4 - Two.java
+7. Choice is 5, run exercise 5 - NameAge.java
+8. Choice is 6, run exercise 6 - ForLoop.java
+9. Choice is 7, run exercise 7 - Months.java
+10. Choice is 8, run exercise 8 - Cards.java
+11. After selection, program promts user to make another selection.
+11. If user enter number other then 1-8, program prints "Invalid choice" message to the screen.
+12. Program prompts user to enter choice between 1-8.
+13. To quit press Ctrl + Z.
