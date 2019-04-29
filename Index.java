@@ -13,7 +13,7 @@ public class Index{
 
 		int choice = 0;
 		
-		System.out.println ("Select option.\n");
+		System.out.println ("Select program to run:");
 		System.out.println ("1. Lisa");
 		System.out.println ("2. BigNumber");
 		System.out.println ("3. Number");
