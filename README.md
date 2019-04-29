@@ -2,7 +2,7 @@
 Software Development Project
 
 Project contains 9 exercises. 
-To run programs, dowload each file to computers hard drive, open the Index.java file in Textpad, press ctrl+2.
+To run programs, download each file to computers hard drive, open the Index.java file in Textpad, press ctrl+2.
 User will be presented with a menu. 
 To run program, uses will choose number between 1-8, if different number is selected "Invalid choice" information will appear on the screen and user will be asked again to choose number between 1 -8. To exit, user will press Ctrl+Z.
 After selected program run, the menu will show up again asking user to make a choice.
