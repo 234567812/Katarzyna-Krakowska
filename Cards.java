@@ -1,3 +1,13 @@
+/*
+Name: Exercise_KKrakowska
+
+Description: Exercise - Java Development
+
+Created by: Katarzyna Krakowska
+
+Created on: 28/04/2019
+*/
+
 import java.util.Random;
 
 public class Cards{
