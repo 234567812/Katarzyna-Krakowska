@@ -39,4 +39,4 @@ Program includes an array which stores the month names. Using the String method 
 
 8. Cards.java
 
-Program shuffles an array that models a deck of card, using  java.util.Random and print out the contents ofshuffled deck to the screen. 
+Program shuffles an array that models a deck of card, using  java.util.Random and print out the contents of shuffled deck to the screen. 
